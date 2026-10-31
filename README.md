@@ -34,6 +34,10 @@ https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
 > - **Language & AI** : Gemini, Groq, Python, LangChain, FastAPI, MediaPipe, OpenCV
 > - **Server & Infra** : Docker, AWS EC2. Nginx, Kubernetes, Jenkins, Traefik
 > - **API & Service** : PortOne API, SMTP 이메일 전송, 카카오 로그인 API, Google 뉴스 RSS
+> - **OS & Development Tools** : Windows 11, Eclipse, Visual Studio Code, Ubuntu, Gradle, Yarn
+> - **Databse & API Tools** : SQLGate, Postman, Swagger UI, JUnit
+> - **Modeling & Design** : draw.io,Visual Paradigm, eXERD, PlantText
+> - **UI & Libraries** :React Router DOM, Lucide React, Axios, Fullpage.js, React Flow, Motion, Swiper
 
 
 ## 📓 기능 정의
