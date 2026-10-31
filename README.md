@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
   
 ## 🧑‍🤝‍🧑 개발자 소개 
 > - **주용현** : 팀장, 프로젝트 기획, UI 흐름, ERD 설계 담당<br>
-                 &emsp;친구추가, 공지사항, 신고 CRUD RESTful API 구현<br>
+&emsp;&emsp;친구추가, 공지사항, 신고 CRUD RESTful API 구현<br>
                  신고 상태 변경, 관리자 답변 기능 구현<br>
                  PL/SQL 신고 대상 조회 프로시저 작성<br>
 > - **이주화** : 프로젝트 기획, UI 흐름 ERD 설계
