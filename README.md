@@ -26,10 +26,10 @@ https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
 > - Docker를 통한 배포 환경 및 자동화 구현
   
 ## 🧑‍🤝‍🧑 개발자 소개 
-> - **주용현** : 팀장, 프로젝트 기획, UI 흐름, ERD 설계 담당
-                 친구추가, 공지사항, 신고 CRUD RESTful API 구현
-                 신고 상태 변경, 관리자 답변 기능 구현
-                 PL/SQL 신고 대상 조회 프로시저 작성
+> - **주용현** : 팀장, 프로젝트 기획, UI 흐름, ERD 설계 담당<br>
+                 친구추가, 공지사항, 신고 CRUD RESTful API 구현<br>
+                 신고 상태 변경, 관리자 답변 기능 구현<br>
+                 PL/SQL 신고 대상 조회 프로시저 작성<br>
 > - **이주화** : 프로젝트 기획, UI 흐름 ERD 설계
                  커뮤니티 CRUD RESTful API 구현 
                  React Bootstrap 기반 게시판 UI 구현
