@@ -5,25 +5,25 @@
 > 본 프로젝트는 학습의 단계를 연결하여 자신의 교재와 노트로 문제를 만들고, 풀이와 오답을 학습기록으로 남기는데 있습니다. 이 기록을 분석해 다음 학습에 참고하고, 스터디룸에서는 자료와 일정, 대화를 함께 관리합니다. 집중학습과 다이어그램, 버디봇은 이 흐름을 이어가는 보조 기능 입니다. 핵심 기능은 AI 개인 스터디와 그룹 스터디, 학습 통계, 출석과 친구추가, 커뮤니티, 버디봇 등의 기능을 제공합니다. 관리자는 회원과 콘텐츠, 신고와 이용 이력을 관리합니다.
 
 ## 🎥 시연 영상
-https://youtu.be/sU0ogD0SPSw (유튜브 링크)
+https://drive.google.com/file/d/17hqCNW51ySgNfkA7dnbhWFxA29OnCJ8q/view
 
 ## 🚀 배포 주소
-http://3.25.242.30
-> - Railway를 이용하여 프론트엔드와 백엔드를 배포했습니다.
-> - 현재 배포 환경에서는 CORS 및 서버 설정 이슈로 일부 API 기능이 제한됩니다.
+https://13.124.197.107/
 > - 프로젝트의 전체 기능은 시연 영상과 로컬 실행 환경에서 정상적으로 확인할 수 있습니다.
 > - 배포 환경 이슈를 분석하며 CORS 설정, 환경변수, API 통신 구조를 개선하고 있습니다.
 
 ## 🎥 프리젠테이션
-https://drive.google.com/file/d/16ZEfj61N7T6VEQeNHA-rA1HqBN8_2XZq/view?usp=sharing
+https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
 
 ## ⏲️ 개발 기간   
-> - 2026.7.3(금) ~ 2026.7.29(수)
+> - 2026.9.28(월) ~ 2026.10.28(수)
 > - Oracle Database 연동
-> - Spring Boot를 통한 ERP관리 서비스 구현
+> - Spring Boot를 통한 세션과 결과 관리
 > - React를 통한 UI/UX 업데이트 및 구현
-> - CRUD RESTful API 구현
-> - Open API 우편번호 주소 연동
+> - AI 문제 생성 및 검증 흐름 구현
+> - 커뮤니티 CRUD RESTful API 구현
+> - Open API 카카오톡 로그인 구현
+> - Docker를 통한 배포 환경 및 자동화 구현
   
 ## 🧑‍🤝‍🧑 개발자 소개 
 > - **주용현** : 팀장, 프로젝트 총괄 및 관리자 페이지 CRUD RESTful API 구현
