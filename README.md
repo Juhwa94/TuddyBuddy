@@ -49,6 +49,7 @@ https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
 > - **관리자 페이지 기능**
 
 ## 🧰 협업 도구
+> - **Git**
 > - **Github**
 > - **Notion**
 > - **Google Apps**
