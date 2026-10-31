@@ -36,6 +36,18 @@ https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
 > - **API & Service** : PortOne API, SMTP 이메일 전송, 카카오 로그인 API, Google 뉴스 RSS
 
 
+## 📓 기능 정의
+> - **AI 개인 스터디**
+> - **학습평가분석**
+> - **스터디룸**
+> - **출석 기능**
+> - **친구 기능**
+> - **커뮤니티**
+> - **알림 기능**
+> - **마이페이지**
+> - **관리자페이지**
+
+
 ## ⚙️ 기술 스택
 > - **PL/SQL 신고 대상 조회 프로시저 작성**
 > - **OpenCV MediaPipe 집중 감지 타이머 연동**
