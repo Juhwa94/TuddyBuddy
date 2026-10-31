@@ -28,7 +28,8 @@ https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
   
 ## 💻 개발환경
 > - **Frontend** : React 19.2.8, TypeScript, JavaScript, HTML5, CSS3, Bootstrap 5
-> - **Backend** : Java 25, Spring Boot 4.1.0, MyBatis 4.0.1, SockJS, Spring MVC, Spring Data JDBC, WebSocket, Spring Security, Spring Data Redis, STOMP, JWT
+> - **Backend** : Java 25, Spring Boot 4.1.0, MyBatis 4.0.1, SockJS, Spring MVC, Spring Data JDBC, WebSocket,<br>
+ Spring Security, Spring Data Redis, STOMP, JWT
 > - **Database** : Oracle 11g, Redis
 > - **Language & AI** : Gemini, Groq, Python, LangChain, FastAPI, MediaPipe, OpenCV
 > - **Server & Infra** : Docker, AWS EC2. Nginx, Kubernetes, Jenkins, Traefik
