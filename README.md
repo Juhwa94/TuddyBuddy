@@ -24,42 +24,15 @@ https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
 > - 커뮤니티 CRUD RESTful API 구현
 > - Open API 카카오톡 로그인 구현
 > - Docker를 통한 배포 환경 및 자동화 구현
-  
-## 🧑‍🤝‍🧑 개발자 소개 
-> - **주용현** : 팀장, 프로젝트 기획, UI 흐름, ERD 설계 담당<br>
-&emsp;&emsp;&emsp;친구추가, 공지사항, 신고 CRUD RESTful API 구현<br>
-&emsp;&emsp;&emsp;신고 상태 변경, 관리자 답변 기능 구현<br>
-&emsp;&emsp;&emsp;PL/SQL 신고 대상 조회 프로시저 작성<br>
-> - **이주화** : 프로젝트 기획, UI 흐름 ERD 설계<br>
-&emsp;&emsp;&emsp;커뮤니티 CRUD RESTful API 구현 <br>
-&emsp;&emsp;&emsp;React Bootstrap 기반 게시판 UI 구현<br>
-&emsp;&emsp;&emsp;카테고리 필터, 키워드 검색 구현<br>
-&emsp;&emsp;&emsp;로그인 기반 접근, 로딩, 오류 상태 처리<br>
-&emsp;&emsp;&emsp;댓글 및 좋아요 기능 DB 연동 및 백엔드 연결<br>
-> - **최솔**   : React TypeScript 기반 셀프스터디 UI 구현<br>
-                 Python FastAPI Gemini API 기반 문제 생성<br>
-                 RAG 임베딩 기반 생성 품질 관리<br>
-                 Groq API 기반 문제생성 교차 검증<br>
-                 Spring Boot, MyBatis, Oracle 기반 채점<br>
-                 학습 타이머 및 문제풀이 시간 기록<br>
-> - **김진규** : 포인트 CRUD RESTful API 구현<br>
-                 Recharts 기반 과목별 학습 성과 시각화<br>
-                 FastAPI 학습 분석 예측 API 연동<br>
-                 LLM, RAG, Chroma 기반 학습 피드백 구현<br>
-                 PortOne SDK 연동 포인트 충전 구현<br>
-> - **허승표** : 챗봇, 사용자 활동 로그 CRUD RESTful API 구현<br>
-                 FastAPI/chat 질문 응답 API 연동<br>
-                 LLM, RAG, FAISS 기반 버디봇 구현<br>
-                 대화 이력 저장 복원 소유권 검증<br>
-                 AOP 기반 사용자 활동 로그 수집<br>
-> - **오진석** : 디자인된 평가 폼을 재구성하여 백엔드 연동, MUI X Chart를 사용하여 평점 시각화
-> - **최원철** : 데이터 모델링 1:N 관계를 설계하여 댓글 엔티티 설계 및 구현, 동적 쿼리 및 페이징, API 테스트
 
   
 ## 💻 개발환경
-> - **Language** : Java, JavaScript, TypeScript, HTML, CSS
-> - **IDE** : Visual Studio Code, Eclipse
-> - **Database** : Oracle
+> - **Frontend** : React 19.2.8, TypeScript, JavaScript, HTML5, CSS3, Bootstrap 5
+> - **Backend** : Java 25, Spring Boot 4.1.0, MyBatis 4.0.1, SockJS, Spring MVC, Spring Data JDBC, WebSocket, Spring Security, Spring Data Redis, STOMP, JWT
+> - **Database** : Oracle 11g, Redis
+> - **Language & AI** : Gemini, Groq, Python, LangChain, FastAPI, MediaPipe, OpenCV
+> - **Server & Infra** : Docker, AWS EC2. Nginx, Kubernetes, Jenkins, Traefik
+> - **API & Service** : PortOne API, SMTP 이메일 전송, 카카오 로그인 API, Google 뉴스 RSS
 
 
 ## ⚙️ 기술 스택
