@@ -26,12 +26,32 @@ https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
 > - Docker를 통한 배포 환경 및 자동화 구현
   
 ## 🧑‍🤝‍🧑 개발자 소개 
-> - **주용현** : 팀장, 프로젝트 총괄 및 관리자 페이지 CRUD RESTful API 구현
-> - **이주화** : UI 설계 및 레이아웃 설계, React 기반 메인 UI/UX 수정 및 보완, Open API 연동
-> - **최솔**   : Redis를 활용한 이메일 인증 토큰 저장 및 검증, AOP 적용으로 로그인 로깅 기능 구현
-> - **임동혁** : 공지사항 CRUD RESTful API 구현, 동적 쿼리 및 페이징, API 테스트
-> - **김진규** : React를 활용한 UI/UX 설계, 동적 쿼리를 사용한 백엔드 로직 작성
-> - **허승표** : React를 활용한 UI/UX 설계, 동적 쿼리를 사용한 백엔드 로직 작성
+> - **주용현** : 팀장, 프로젝트 기획, UI 흐름, ERD 설계 담당
+                 친구추가, 공지사항, 신고 CRUD RESTful API 구현
+                 신고 상태 변경, 관리자 답변 기능 구현
+                 PL/SQL 신고 대상 조회 프로시저 작성
+> - **이주화** : 프로젝트 기획, UI 흐름 ERD 설계
+                 커뮤니티 CRUD RESTful API 구현 
+                 React Bootstrap 기반 게시판 UI 구현
+                 카테고리 필터, 키워드 검색 구현
+                 로그인 기반 접근, 로딩, 오류 상태 처리
+                 댓글 및 좋아요 기능 DB 연동 및 백엔드 연결
+> - **최솔**   : React TypeScript 기반 셀프스터디 UI 구현
+                 Python FastAPI Gemini API 기반 문제 생성
+                 RAG 임베딩 기반 생성 품질 관리
+                 Groq API 기반 문제생성 교차 검증
+                 Spring Boot, MyBatis, Oracle 기반 채점
+                 학습 타이머 및 문제풀이 시간 기록
+> - **김진규** : 포인트 CRUD RESTful API 구현
+                 Recharts 기반 과목별 학습 성과 시각화
+                 FastAPI 학습 분석 예측 API 연동
+                 LLM, RAG, Chroma 기반 학습 피드백 구현
+                 PortOne SDK 연동 포인트 충전 구현
+> - **허승표** : 챗봇, 사용자 활동 로그 CRUD RESTful API 구현
+                 FastAPI/chat 질문 응답 API 연동
+                 LLM, RAG, FAISS 기반 버디봇 구현
+                 대화 이력 저장 복원 소유권 검증
+                 AOP 기반 사용자 활동 로그 수집
 > - **오진석** : 디자인된 평가 폼을 재구성하여 백엔드 연동, MUI X Chart를 사용하여 평점 시각화
 > - **최원철** : 데이터 모델링 1:N 관계를 설계하여 댓글 엔티티 설계 및 구현, 동적 쿼리 및 페이징, API 테스트
 
