@@ -37,16 +37,27 @@ https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
 
 
 ## ⚙️ 기술 스택
-> - **React + TypeScript** 
-> - **Spring Boot** 
-> - **DB 연동** 
-> - **AI 개인 스터디 기능**
-> - **학습타이머 기능**
-> - **스터디룸 기능**
-> - **친구추천 및 추가기능**
-> - **커뮤니티 기능**
-> - **마이페이지 기능**
-> - **관리자 페이지 기능**
+> - **친구, 공지사항 신고 CRUD RESTful API 구현**
+> - **PL/SQL 신고 대상 조회 프로시저 작성**
+> - **OpenCV MediaPipe 집중 감지 타이머 연동**
+> - **Python FastAPI, Gemini API 기반 문제 생성**
+> - **Groq API 기반 문제생성 교차 검증**
+> - **Spring Boot, MyBatis, Oracle 기반 채점**
+> - **Recharts 기반 과목별 학습 성과 시각화**
+> - **LLM, RAG, Chroma 기반 학습 피드백 구현**
+> - **PortOne SDK 연동 포인트 충전 구현**
+> - **커뮤니티 카테고리 필터, 키워드 검색 구현**
+> - **글 작성 모달, 내 게시글 조회 구현**
+> - **로그인 기반 접근, 로딩, 오류 상태 처리**
+> - **스터디룸 초대 가입, 강퇴, 방장 위임, 탈퇴 구현**
+> - **할일 상태 변경, 메모, 파일 공유 구현**
+> - **React Flow 기반 다이어그램 저장, 조회**
+> - **FastAPI/chat 질문 응답 API 연동**
+> - **LLM, RAG, FAISS 기반 버디봇 구현**
+> - **카카오 OAuth API 연동 소셜 로그인 구현**
+> - **회원가입, 닉네임 중복 검증 구현**
+> - **JavaMailSender SMTP 인증 메일 발송 구현**
+> - **Redis 기반 인증 코드 만료, 시도 관리**
 
 ## 🧰 협업 도구
 > - **Git**
