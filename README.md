@@ -52,6 +52,8 @@ https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
 > - **Github**
 > - **Zoom**
 > - **Notion**
+> - **Google Apps**
+> - **Discord**
   
 
 ## 📌 주요 기능
