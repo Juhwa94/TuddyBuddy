@@ -5,7 +5,7 @@
 > 본 프로젝트는 학습의 단계를 연결하여 자신의 교재와 노트로 문제를 만들고, 풀이와 오답을 학습기록으로 남기는데 있습니다. 이 기록을 분석해 다음 학습에 참고하고, 스터디룸에서는 자료와 일정, 대화를 함께 관리합니다. 집중학습과 다이어그램, 버디봇은 이 흐름을 이어가는 보조 기능 입니다. 핵심 기능은 AI 개인 스터디와 그룹 스터디, 학습 통계, 출석과 친구추가, 커뮤니티, 버디봇 등의 기능을 제공합니다. 관리자는 회원과 콘텐츠, 신고와 이용 이력을 관리합니다.
 
 ## 🎥 시연 영상
-https://drive.google.com/file/d/17hqCNW51ySgNfkA7dnbhWFxA29OnCJ8q/view
+> https://drive.google.com/file/d/17hqCNW51ySgNfkA7dnbhWFxA29OnCJ8q/view
 
 ## 🚀 배포 주소
 https://13.124.197.107/
@@ -13,7 +13,10 @@ https://13.124.197.107/
 > - 배포 환경 이슈를 분석하며 CORS 설정, 환경변수, API 통신 구조를 개선하고 있습니다.
 
 ## 🎥 프리젠테이션
-https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
+> https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
+
+## 📚 DB 기획서
+> https://docs.google.com/spreadsheets/d/1ab8Lfi0Dayt52mdYYhSwp01VyzFPjjUOFZnMaiPgcEs/edit?usp=sharing
 
 ## ⏲️ 개발 기간   
 > - 2026.9.28(월) ~ 2026.10.28(수)
