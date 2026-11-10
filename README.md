@@ -78,19 +78,6 @@ https://drive.google.com/file/d/1RVuZHOM6F-uMSv-uUPhnQPE8G4NsPt0I/view
 > - **Notion**
 > - **Google Apps**
 > - **Discord**
-  
-
-## 📌 주요 기능
-
-> - AI 개인 스터디
-> - 학습평가분석
-> - 스터디룸
-> - 출석 기능
-> - 친구 기능
-> - 커뮤니티
-> - 알림 기능
-> - 마이페이지
-> - 관리자페이지
 
 
 ## 📂 프로젝트 특징
